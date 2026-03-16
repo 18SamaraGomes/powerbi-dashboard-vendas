@@ -1,3 +1,1 @@
-## Dashboard
 
-![Dashboard](dashboard.png)
